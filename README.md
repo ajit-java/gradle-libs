@@ -1,3 +1,7 @@
+This https://github.com/ajit-java/gradle-libs project is an example of grale project created via gradle init, where library project is part of same git repo.
+
+This https://github.com/ajit-java/gradle-libs-subrepo is an example of project where git subrepo add on is used to maintain git libs, it creates a gradle-libs-subrepo/utilities/.gitrepo file which contains gitsubrepo configs. 
+
 ## gradle init
 https://docs.gradle.org/current/samples/sample_building_java_applications_multi_project.html
 
