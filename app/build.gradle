@@ -14,4 +14,3 @@ application {
     // Define the main class for the application.
     mainClass = 'gradle.libs.app.App'
 }
-1
